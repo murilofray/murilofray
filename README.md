@@ -1,9 +1,8 @@
+<h1>Bio: Hello Word!</h1>
 
-<h1>Bio:</h1>
-- 🧔🏻‍♂️ Murilo Lopes Fray De Oliveira
-- 📅|20 Anos
-- 📚| 4/8 Ciência da Computação | IFSP
-
+- 🧔🏻‍♂️ | Murilo Lopes Fray De Oliveira
+- 📅 | 20 Anos
+- 📚 | 4/8 Ciência da Computação | IFSP-PEP
 
 <h1>Status:</h1>
  <div>
