@@ -1,8 +1,7 @@
 
-<h1>Bio:</h1>Eae 👋, beleza? 
-
-Murilo Lopes Fray De Oliveira
-- 🗓| 20 Anos
+<h1>Bio:</h1>
+- 🧔🏻‍♂️ Murilo Lopes Fray De Oliveira
+- 📅|20 Anos
 - 📚| 4/8 Ciência da Computação | IFSP
 - 🌐 Nacionalidade: Brasileira
 
