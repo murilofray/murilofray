@@ -3,7 +3,6 @@
 - 🧔🏻‍♂️ Murilo Lopes Fray De Oliveira
 - 📅|20 Anos
 - 📚| 4/8 Ciência da Computação | IFSP
-- 🌐 Nacionalidade: Brasileira
 
 
 <h1>Status:</h1>
