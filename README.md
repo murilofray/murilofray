@@ -12,10 +12,10 @@
   
 <h1>Status:</h1>
  <div>
+<div align="center">
   <a href="https://github.com/MuriloFray">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MuriloFray&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  &nbsp &nbsp
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFray&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloFray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFray&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <h1>Commits:</h1>
