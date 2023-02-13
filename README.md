@@ -1,6 +1,6 @@
 <h1>Hi!, I'm Murilo Fray</h1>
 
-- 📚 | 4/8 Computer Science Student at IFSP-PEP 🇧🇷
+- 📚 | 5/8 Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 20 Years
 
 
