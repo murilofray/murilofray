@@ -30,10 +30,15 @@
   <a href="https://www.linkedin.com/in/murilo-lopes-419991196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h1>Status:</h1>
-<div>
-  <a href="https://github.com/murilofray">
-<img height="150em" width="42%" src="https://github-readme-stats.vercel.app/api?username=murilofray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofray&layout=compact&langs_count=7&theme=dracula"/>
+<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilofray4&show_icons=true&theme=ayu-mirage) -->
+   
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilofray&theme=dracula" />
+   
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilofray&theme=dracula" />
+
 </div>
   
  <h1>Commits:</h1>
