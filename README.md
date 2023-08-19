@@ -1,6 +1,6 @@
 <h1>Hi!, I'm Murilo Fray</h1>
 
-- 📚 | 5/8 Computer Science Student at IFSP-PEP 🇧🇷
+- 📚 | 6/8 Computer Science Student at IFSP-PEP 🇧🇷
 - 📅 | 21 Years
 
 
@@ -29,22 +29,9 @@
   <a href = "mailto:murilofray01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.linkedin.com/in/murilo-lopes-419991196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<h1>Status:</h1>
-<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilofray4&show_icons=true&theme=ayu-mirage) -->
-   
-<div align="center">
+<h1>Languages ​​in my repositories:</h1>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilofray&theme=dracula" />
-   
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilofray&theme=dracula" />
-
-</div>
-  
- <h1>Commits:</h1>
- 
-   ![Snake animation](https://github.com/murilofray/murilofray/blob/output/github-contribution-grid-snake.svg)
- 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofray&layout=compact&langs_count=7&theme=dracula"/>
  
 
  
