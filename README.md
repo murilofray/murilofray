@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/murilo-lopes-419991196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h1>Languages ​​in my repositories:</h1>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofray&layout=compact)
 
  
 
