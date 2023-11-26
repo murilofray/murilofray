@@ -26,7 +26,7 @@
 <h1>Contatos:</h1>
  <div>  
   <a href = "mailto:murilofray01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://www.linkedin.com/in/murilo-lopes-419991196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/murilofray/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h1>Languages ​​in my repositories:</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofray&layout=compact&theme=dracula" alt="Top Languages" />
