@@ -1,7 +1,7 @@
 <h1>Hi!, I'm Murilo Fray</h1>
 
-- 📚 | 6/8 Computer Science Student at IFSP-PEP 🇧🇷
-- 📅 | 21 Years
+- 📚 | 7/8 Computer Science Student at IFSP-PEP 🇧🇷
+- 📅 | 22 Years
 
 
 <h1>🔥 Skills</h1>
@@ -11,6 +11,7 @@
   <img align="center" alt="Murilo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Murilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Murilo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
    🗄 Database:
   <img align="center" alt="Murilo-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
