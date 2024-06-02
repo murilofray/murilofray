@@ -18,7 +18,8 @@
   <img align="center" alt="Murilo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   
   🚀 Frameworks:
-   <img align="center" alt="Murilo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+   <img align="center" alt="Murilo-Node" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" alt="Murilo-Node" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
   
   🌐 Infrastructure and Services:
   
