@@ -1,39 +1,73 @@
-<h1>Hi!, I'm Murilo Fray</h1>
+<h2 align="center">Murilo Fray</h2>
 
-- 📚 | 7/8 Computer Science Student at IFSP-PEP 🇧🇷
-- 📅 | 22 Years
+###
 
+<p align="left">- 📚 | 7/8 Computer Science Student at IFSP-PEP 🇧🇷<br>- 📅 | 22 Years<br>- 💡 | Interested in LLM, Generative AI, Multi-Agent Systems, Prompt Engineering, AI & Data Engineering, Cybersecurity, and Web Development</p>
 
-<h1>🔥 Skills</h1>
-<div style="display: inline_block">
- 
-  👩‍💻 Languages:
-  <img align="center" alt="Murilo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Murilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Murilo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-   🗄 Database:
-  <img align="center" alt="Murilo-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Murilo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+###
+
+<h3 align="left">Technologies</h3>
+
+<div align="left">
+  <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZscDFuaXhxYnRqcm5mcDcxZGZmdGN3MHZudnJ0dTdvNTJsZHh1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp"  />
   
-  🚀 Frameworks:
-   <img align="center" alt="Murilo-Node" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-   <img align="center" alt="Murilo-Node" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
+  **Languages:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   
-  🌐 Infrastructure and Services:
+  **Frameworks and Libraries:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   
+  **Databases:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="30" alt="neo4j logo"  />
+  
+  **Infrastructure and Tools:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
-<h1>Contatos:</h1>
- <div>  
-  <a href = "mailto:murilofray01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://www.linkedin.com/in/murilofray/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+###
 
-<h1>Languages ​​in my repositories:</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofray&layout=compact&theme=dracula" alt="Top Languages" />
-  
+<h3 align="left">Socials</h3>
 
- 
+###
 
- 
+<div align="left">
+  <a href="murilofray01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/murilofray/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+</div>
+
+### 
