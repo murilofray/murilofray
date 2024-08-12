@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="30" alt="neo4j logo"  />
   
-  **Infrastructure and DevOps:**
+  **Infrastructure and Tools:**
   <br>
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
