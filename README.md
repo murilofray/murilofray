@@ -1,15 +1,19 @@
-<h2 align="center">Murilo Fray</h2>
+<h1 align="center">Murilo Fray</h1>
 
-###
-
-<p align="left">- 📚 | 7/8 Computer Science Student at IFSP-PEP 🇧🇷<br>- 📅 | 22 Years<br>- 💡 | Interested in LLM, Generative AI, Multi-Agent Systems, Prompt Engineering, AI & Data Engineering, Cybersecurity, and Web Development</p>
-
-###
-
-<h3 align="left">Technologies</h3>
+<h2 align="left">🧔🏻 About Me</h2>
 
 <div align="left">
   <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZscDFuaXhxYnRqcm5mcDcxZGZmdGN3MHZudnJ0dTdvNTJsZHh1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp"  />
+  
+  <p>- 📚 I'm a Computer Science student at IFSP-PEP.</p>
+  <p>- 🇧🇷 I live in Brazil.</p>
+  <p>- 📅 I'm 22 years old.</p>
+  <p>- 💡 I'm interested in LLM, Generative AI, Multi-Agent Systems, AI & Data Engineering, Cybersecurity and Web Development.</p>
+</div>
+
+<h2 align="left">🛠️ Technologies</h2>
+
+<div align="left">
   
   **Languages:**
   <br>
@@ -25,15 +29,15 @@
   
   **Frameworks and Libraries:**
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?v=4" height="30" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   
@@ -45,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="30" alt="neo4j logo"  />
   
-  **Infrastructure and Tools:**
+  **Infrastructure and DevOps:**
   <br>
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
@@ -54,11 +58,7 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
-###
-
-<h3 align="left">Socials</h3>
-
-###
+<h2 align="left">🌐 Socials</h2>
 
 <div align="left">
   <a href="murilofray01@gmail.com" target="_blank">
