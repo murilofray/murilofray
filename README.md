@@ -1,72 +1,150 @@
-<h1 align="center">Murilo Fray</h1>
+# 👋 Hello! I'm Murilo Fray
 
-<h2 align="left">🧔🏻 About Me</h2>
-
-<div align="left">
-  <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZscDFuaXhxYnRqcm5mcDcxZGZmdGN3MHZudnJ0dTdvNTJsZHh1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp"  />
+<div align="center">
   
-  <p>- 📚 I'm a Computer Science student at IFSP-PEP.</p>
-  <p>- 🇧🇷 I live in Brazil.</p>
-  <p>- 📅 I'm 23 years old.</p>
-  <p>- 💡 I'm interested in LLM, Generative AI, Multi-Agent Systems, AI & Data Engineering, Cybersecurity and Web Development.</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Computer+Science+Student;Passionate+about+LLMs+%26+Multi-Agent+Systems;Backend+Developer;Always+learning+something+new!)](https://git.io/typing-svg)
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZscDFuaXhxYnRqcm5mcDcxZGZmdGN3MHZudnJ0dTdvNTJsZHh1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp" width="300" />
+  
 </div>
 
-<h2 align="left">🛠️ Technologies</h2>
+---
 
-<div align="left">
-  
-  **Languages:**
-  <br>
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  
-  **Frameworks and Libraries:**
-  <br>
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?v=4" height="30" alt="langchain logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  
-  **Databases:**
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="30" alt="neo4j logo"  />
-  
-  **Infrastructure and Tools:**
-  <br>
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+## 🚀 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=murilofray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+
+🤖 **AI Engineer** & Computer Science Student at IFSP-PEP  
+🌎 **Location:** Brazil  
+🎂 **Age:** 23 years old  
+
+### 🎯 Areas of Interest
+- 🧠 **Large Language Models (LLMs)**
+- 📱 **Small Language Models (SLMs)**
+- 🔄 **Multi-Agent Systems**
+- 📊 **AI & Data Engineering**
+- 🛡️ **AI for Cybersecurity**
+- 💰 **AI for Financial Applications**
+- 🔐 **AI Security & Ethics**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🤖 AI/ML Frameworks & Libraries
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### 🚀 Backend Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### ⚛️ Frontend Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+
+### ⚙️ Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
-<h2 align="left">🌐 Socials</h2>
+---
 
-<div align="left">
-  <a href="murilofray01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/murilofray/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+## 🌍 Languages
+
+<div align="center">
+  
+| Language | Proficiency |
+|----------|-------------|
+| 🇧🇷 **Portuguese** | Native |
+| 🇺🇸 **English** | Basic |
+
 </div>
 
-### 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murilofray&theme=tokyonight&hide_border=true&background=0D1117" width="400"/>
+
+</div>
+
+---
+
+## 🎯 Featured AI Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilofray&repo=llm-multiagent-system&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/murilofray/llm-multiagent-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilofray&repo=ai-data-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/murilofray/ai-data-pipeline)
+
+</div>
+
+---
+
+## 🏆 Current Focus
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🤖 AI Engineering] --> B[LLM/SLM Applications]
+    A --> C[Multi-Agent Systems]
+    A --> D[AI Data Pipelines]
+    B --> E[RAG Systems]
+    B --> F[Fine-tuning & Optimization]
+    C --> G[Agent Orchestration]
+    D --> I[MLOps & Backend]
+    A --> K[🛡️ AI for Cybersecurity]
+    A --> L[💰 AI for Finance]
+    K --> M[Threat Detection]
+    K --> N[Anomaly Analysis]
+    L --> O[Risk Assessment]
+    L --> P[Algorithmic Trading]
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilofray01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilofray/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
