@@ -22,7 +22,7 @@
 - 🧠 **Large Language Models (LLMs)**
 - 📱 **Small Language Models (SLMs)**
 - 🔄 **Multi-Agent Systems**
-- 📊 **AI & Data Engineering**
+- ⚙️ **Backend** 
 - 🛡️ **AI for Cybersecurity**
 - 💰 **AI for Financial Applications**
 - 🔐 **AI Security & Ethics**
